@@ -34,6 +34,6 @@ ShapeDemo.java - Main class to demonstrate polymorphism and generate random shap
 bin/ - Directory where compiled classes will be stored.
 Sample Output
 Here are some examples of the output generated when running the program. The surface area and volume are randomly calculated based on the dimensions of the shapes (radius, height, or side length).
+<img width="754" alt="Screenshot 2024-12-08 at 20 03 04" src="https://github.com/user-attachments/assets/e2adfb11-6fbe-4e33-a07c-8cd02f54cad5">
 
-<img width="926" alt="Screenshot 2024-12-08 at 13 30 11" src="https://github.com/user-attachments/assets/70bf34c1-2a72-44af-9758-8e79a9e5e6c6">
 
