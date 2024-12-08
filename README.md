@@ -35,4 +35,5 @@ bin/ - Directory where compiled classes will be stored.
 Sample Output
 Here are some examples of the output generated when running the program. The surface area and volume are randomly calculated based on the dimensions of the shapes (radius, height, or side length).
 
-![Uploading Screenshot 2024-12-08 at 13.30.11.png…]()
+<img width="926" alt="Screenshot 2024-12-08 at 13 30 11" src="https://github.com/user-attachments/assets/70bf34c1-2a72-44af-9758-8e79a9e5e6c6">
+
